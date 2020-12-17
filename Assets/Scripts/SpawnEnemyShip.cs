@@ -28,7 +28,7 @@ public class SpawnEnemyShip : MonoBehaviour
             {
                 seed = -seed;
                 counter = 0;
-                checkPoint += 4;
+                checkPoint += 2;
             }
             else
             {
